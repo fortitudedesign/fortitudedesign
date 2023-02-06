@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matt Buckwell</h1>
+<h1 align="center">Hi, I'm Matt Buckwell</h1>
 <h3 align="center">A passionate Full Stack Developer from NZ</h3>
 <h2> Work </h2>
 - 🔭 I’m currently working on <strong>Starting my programming career</strong><br>
