@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from NZ</h3>
 <h2> Work </h2>
 - 🔭 I’m currently working on <strong>Starting my programming career</strong><br>
-- 🌱 I’m currently learning <strong>Full Stack Engineer pathway through Codecademy</strong>
+- 🌱 I’m currently learning <strong>React through Udemy</strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
